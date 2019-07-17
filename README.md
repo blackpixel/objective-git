@@ -21,7 +21,7 @@ Note that the `bootstrap` script automatically installs some libraries that
 ObjectiveGit relies upon, using Homebrew. If you want this behavior, please 
 make sure you have Homebrew installed.
 
-## Importing ObjectiveGit on OS X
+## Importing ObjectiveGit on OSX
 
 It is simple enough to add the ObjectiveGit framework to a desktop application
 project. An example of this is the
